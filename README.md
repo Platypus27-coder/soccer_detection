@@ -22,8 +22,5 @@ The notebook processes input video, performs object detection, and saves an anno
 
 ---
 
-## ▶️ How to Run
-Install dependencies:
-Run all cells in the Jupyter Notebook.
-```bash
-pip install ultralytics opencv-python
+## Link to datasets: 
+- https://www.kaggle.com/datasets/iasadpanwhar/football-player-detection-yolov8
